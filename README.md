@@ -1,0 +1,10 @@
+# levels-of-abstraction_fMRI
+Analysis of fMRI data showing how concepts at different levels of abstraction are neurally represented
+
+## Code description
+Code snippets of machine learning classification of brain states demonstrating how concepts at an intermediate or "basic" level of abstraction (e.g. "bird") are neurally similar to brain representations of their typical subordinate concepts (e.g. "robin") but not atypical subordinates (e.g. "woodpecker").
+
+Results documented in journal article published in [NeuroImage](http://www.sciencedirect.com/science/article/pii/S1053811917306961), titled "A brain-based account of 'basic-level' concepts"
+
+## Article abstract
+This study provides a brain-based account of how object concepts at an intermediate (basic) level of specificity are represented, offering an enriched view of what it means for a concept to be a basic-level concept, a research topic pioneered by Rosch and others (Rosch et al., 1976). Applying machine learning techniques to fMRI data, it was possible to determine the semantic content encoded in the neural representations of object concepts at basic and subordinate levels of abstraction. The representation of basic-level concepts (e.g. bird) was spatially broad, encompassing sensorimotor brain areas that encode concrete object properties, and also language and heteromodal integrative areas that encode abstract semantic content. The representation of subordinate-level concepts (robin) was less widely distributed, concentrated in perceptual areas that underlie concrete content. Furthermore, basic-level concepts were representative of their subordinates in that they were neurally similar to their typical but not atypical subordinates (bird was neurally similar to robin but not woodpecker). The findings provide a brain-based account of the advantages that basic-level concepts enjoy in everyday life over subordinate-level concepts: the basic level is a broad topographical representation that encompasses both concrete and abstract semantic content, reflecting the multifaceted yet intuitive meaning of basic-level concepts.
