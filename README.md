@@ -2,7 +2,7 @@
 Analysis of fMRI data showing how concepts at different levels of abstraction are neurally represented
 
 ## Code description
-Code snippets of machine learning classification of brain states demonstrating how concepts at an intermediate or "basic" level of abstraction (e.g. "bird") are neurally similar to brain representations of their typical subordinate concepts (e.g. "robin") but not atypical subordinates (e.g. "woodpecker").
+Code snippets of machine learning classification of brain states demonstrating that concepts at an intermediate or "basic" level of abstraction (e.g. "bird") are neurally similar to brain representations of their typical subordinate concepts (e.g. "robin") but not atypical subordinates (e.g. "woodpecker").
 
 Results documented in journal article titled "A brain-based account of 'basic-level' concepts," published in [NeuroImage](http://www.sciencedirect.com/science/article/pii/S1053811917306961).
 
